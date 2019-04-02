@@ -16,7 +16,7 @@ describe "holiday_supplies_hash" do
   #       :memorial_day => ["BBQ"]
   #     }
   #   }
-  }
+  # }
 
  # Question 1
  # Write a method that returns the second supply for the Fourth of July
